@@ -1,0 +1,18 @@
+# CircuitPython libraries required on the device's /lib folder.
+# These are third-party Adafruit CircuitPython bundle modules (binary .mpy /
+# compiled packages), not copied into this repo since they are not our code.
+# Install matching versions from the Adafruit CircuitPython Bundle for the
+# board firmware version recorded in BOARD_INFO.txt.
+#
+# Current libraries present on device (2026-07-12):
+adafruit_bitmap_font
+adafruit_debouncer.mpy
+adafruit_display_shapes
+adafruit_display_text
+adafruit_hid
+adafruit_macropad.mpy
+adafruit_midi
+adafruit_pixelbuf.mpy
+adafruit_simple_text_display.mpy
+adafruit_ticks.mpy
+neopixel.mpy
