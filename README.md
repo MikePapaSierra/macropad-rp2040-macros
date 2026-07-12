@@ -84,7 +84,7 @@ mounted as `CIRCUITPY`:
 ## Adding a new macro set
 
 Create a new file in `macros/`, e.g. `macros/MyApp.py`, following the
-existing pattern in `macros/ObsTwitchStream copy.py`:
+existing pattern in `macros/ObsTwitchStream.py`:
 
 ```python
 from adafruit_hid.keycode import Keycode
